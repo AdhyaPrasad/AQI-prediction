@@ -1,0 +1,14 @@
+*.pyc
+models/
+*.json
+*.db
+data/
+*.csv
+.streamlit/
+*.log
+.vscode/
+code/old_app.py
+code/extra.py
+code/extr.py
+
+ 
