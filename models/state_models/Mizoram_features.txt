@@ -1,0 +1,9 @@
+hour
+month
+year
+pm_lag_1Y
+pm_lag_2Y
+CO (mg/m3)
+Ozone (ug/m3)
+NOx (ug/m3)
+SO2 (ug/m3)

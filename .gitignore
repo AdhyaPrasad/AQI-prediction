@@ -1,8 +1,5 @@
 *.pyc
-models/
 *.json
-*.db
-data/
 *.csv
 .streamlit/
 *.log
