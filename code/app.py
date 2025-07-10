@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 import seaborn as sns
 import matplotlib.pyplot as plt
 from PIL import Image
-icon = Image.open("assets/logo1_bg.PNG")
+# icon = Image.open("assets/logo1_bg.PNG")
 st.set_page_config(
     page_title="India AQI Forecast", 
     layout="wide",
